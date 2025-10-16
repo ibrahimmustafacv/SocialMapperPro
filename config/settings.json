@@ -1,0 +1,10 @@
+{
+    "application": {
+        "name": "SocialMapper Pro",
+        "version": "2.0.0"
+    },
+    "scraping": {
+        "delay": 2,
+        "headless": true
+    }
+}
